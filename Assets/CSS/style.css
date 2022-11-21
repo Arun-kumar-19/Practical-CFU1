@@ -1,0 +1,110 @@
+.body{
+    background-color: hsl(207, 33%, 95%);
+    font-family: 'Barlow';
+    
+    
+}
+.head{
+    display: flex;
+}
+.logo{
+    display: flex;
+    flex: 2;
+    margin-top: 25px;
+    margin-left: 80px;
+}
+.nav-bar{
+    display: flex;
+    flex:3 ;
+    justify-content:space-between;
+    align-items: center;
+    margin-top: 25px;
+    font-size: 18px;
+    
+}
+.nav-list{
+    padding: 15px;
+    text-decoration: none;
+    color: hsl(230, 11%, 40%);
+    
+}
+.waitlist-btn1{
+    padding: 13px;
+    color: white;
+    background-color: hsl(230, 29%, 20%) ;
+    border-radius: 5px;
+}
+
+.early-access{
+    color: white;
+    background-color:hsl(230, 29%, 20%) ;
+    padding: 8px 15px 8px 15px;
+    border-radius: 20px;
+    
+}
+.learn{
+    color: white;
+
+}
+.content{
+    width: 100%;
+    height: auto;
+    position: absolute;
+    left: 80px;
+    top:200px;
+    display: inline-block;
+
+}
+.main{
+    width: 500px;
+
+}
+h1{
+    color: hsl(230, 29%, 20%) ;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.illustration{
+    width: 300px;
+    height: auto;
+    position: absolute;
+    right: 200px;
+    top: -10%;
+    
+    
+}
+
+
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.email{
+    padding: 15px;
+    padding-right: 100px;
+}
+.waitlist-btn2{
+    padding: 15px;
+    margin-left: 6px;
+    color: white;
+    background-color: hsl(230, 29%, 20%) ;
+    border-radius: 5px;
+
+}
+.footer{
+    position: absolute;
+    left: 80px;
+    bottom:20px;
+}
+.p{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    ;
+    
+}
+.foot{
+    padding:10px;
+}
+
